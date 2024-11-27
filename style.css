@@ -1,0 +1,13 @@
+img {
+    width: 300px;
+}
+body {
+    text-align: center;
+    font-family: 'Playpen Sans';
+    background: SeaShell ;
+    color: #2c0366 ;
+}
+.center {
+    margin-left: auto;
+    margin-right: auto;
+  }  
